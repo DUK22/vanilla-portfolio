@@ -1,0 +1,19 @@
+<svg width="960" height="600" viewBox="0 0 960 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="600" fill="#030711"/>
+  <rect x="54" y="52" width="852" height="496" rx="8" fill="#07111F" stroke="#183956"/>
+  <rect x="94" y="92" width="772" height="60" rx="8" fill="#0B1728" stroke="#17304C"/>
+  <rect x="120" y="113" width="100" height="18" rx="8" fill="#67E8F9"/>
+  <rect x="630" y="113" width="70" height="18" rx="8" fill="#334155"/>
+  <rect x="718" y="106" width="120" height="32" rx="8" fill="#34D399"/>
+  <text x="120" y="240" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="58" font-weight="700">Nova Landing</text>
+  <text x="122" y="282" fill="#94A3B8" font-family="Arial, sans-serif" font-size="22">Conversion-ready startup page system</text>
+  <rect x="122" y="324" width="160" height="42" rx="8" fill="#67E8F9"/>
+  <rect x="300" y="324" width="140" height="42" rx="8" fill="#0F2237" stroke="#255173"/>
+  <rect x="584" y="208" width="230" height="220" rx="8" fill="#081B2D" stroke="#1E3A5F"/>
+  <rect x="616" y="244" width="166" height="18" rx="8" fill="#E2E8F0" opacity=".85"/>
+  <rect x="616" y="282" width="128" height="14" rx="7" fill="#38BDF8" opacity=".82"/>
+  <rect x="616" y="316" width="166" height="14" rx="7" fill="#34D399" opacity=".66"/>
+  <rect x="616" y="350" width="118" height="14" rx="7" fill="#94A3B8" opacity=".42"/>
+  <path d="M734 428c48-64 64-126 48-186" stroke="#38BDF8" stroke-width="4" opacity=".6"/>
+  <path d="M584 454h230" stroke="#16324F" stroke-width="2"/>
+</svg>

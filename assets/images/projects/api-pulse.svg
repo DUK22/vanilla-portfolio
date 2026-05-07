@@ -1,0 +1,15 @@
+<svg width="960" height="600" viewBox="0 0 960 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="600" fill="#030711"/>
+  <rect x="52" y="54" width="856" height="492" rx="8" fill="#07111F" stroke="#183956"/>
+  <text x="90" y="122" fill="#E2E8F0" font-family="Arial, sans-serif" font-size="28" font-weight="700">API Pulse Monitor</text>
+  <rect x="90" y="162" width="780" height="90" rx="8" fill="#0B1728" stroke="#1E3A5F"/>
+  <circle cx="132" cy="207" r="16" fill="#34D399"/>
+  <text x="166" y="214" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="24" font-weight="700">All systems operational</text>
+  <rect x="90" y="292" width="360" height="186" rx="8" fill="#081B2D" stroke="#1E3A5F"/>
+  <polyline points="122,430 168,390 218,408 270,344 322,372 382,318 420,338" stroke="#67E8F9" stroke-width="5" fill="none"/>
+  <rect x="500" y="292" width="370" height="186" rx="8" fill="#081B2D" stroke="#1E3A5F"/>
+  <rect x="532" y="330" width="280" height="14" rx="7" fill="#38BDF8"/>
+  <rect x="532" y="366" width="232" height="14" rx="7" fill="#34D399"/>
+  <rect x="532" y="402" width="164" height="14" rx="7" fill="#94A3B8" opacity=".48"/>
+  <text x="532" y="455" fill="#94A3B8" font-family="Arial, sans-serif" font-size="18">Latency, uptime and endpoint diagnostics</text>
+</svg>

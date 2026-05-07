@@ -1,0 +1,19 @@
+<svg width="960" height="600" viewBox="0 0 960 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="600" fill="#030711"/>
+  <rect x="68" y="56" width="824" height="488" rx="8" fill="#07111F" stroke="#1E3A5F"/>
+  <text x="112" y="126" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="32" font-weight="700">Security Checklist</text>
+  <text x="112" y="164" fill="#94A3B8" font-family="Arial, sans-serif" font-size="18">Deployment hygiene for modern websites</text>
+  <rect x="112" y="212" width="736" height="64" rx="8" fill="#081B2D" stroke="#1E3A5F"/>
+  <rect x="112" y="300" width="736" height="64" rx="8" fill="#081B2D" stroke="#1E3A5F"/>
+  <rect x="112" y="388" width="736" height="64" rx="8" fill="#081B2D" stroke="#1E3A5F"/>
+  <circle cx="148" cy="244" r="15" fill="#34D399"/>
+  <circle cx="148" cy="332" r="15" fill="#67E8F9"/>
+  <circle cx="148" cy="420" r="15" fill="#8B5CF6"/>
+  <path d="m140 244 6 6 12-15" stroke="#030711" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="190" y="232" width="248" height="14" rx="7" fill="#E2E8F0" opacity=".86"/>
+  <rect x="190" y="320" width="304" height="14" rx="7" fill="#E2E8F0" opacity=".72"/>
+  <rect x="190" y="408" width="210" height="14" rx="7" fill="#E2E8F0" opacity=".62"/>
+  <rect x="650" y="226" width="140" height="28" rx="8" fill="#34D399" opacity=".88"/>
+  <rect x="650" y="314" width="120" height="28" rx="8" fill="#38BDF8" opacity=".78"/>
+  <rect x="650" y="402" width="160" height="28" rx="8" fill="#0F2237" stroke="#255173"/>
+</svg>
