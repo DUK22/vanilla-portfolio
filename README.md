@@ -5,8 +5,6 @@ A modern, fast and conversion-focused website built with HTML, CSS and JavaScrip
 💼 This is not just a portfolio.
 It’s a sales tool designed to turn visitors into customers.
 
-🌐 Live Demo
-https://your-username.github.io/portfolio/
 🎯 What This Project Solves
 
 Most websites fail because they:
@@ -88,9 +86,9 @@ If you're a business owner or need a professional website:
 💻 Modern and responsive
 📈 Built to convert
 📬 Get in touch:
-your-email@email.com
+lucnd22@gmail.com 
 
-(or add your WhatsApp / LinkedIn here)
+(https://www.linkedin.com/in/lucas-andrade-leite-008926233)
 
 📄 License
 
